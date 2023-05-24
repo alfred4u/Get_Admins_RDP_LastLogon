@@ -1,4 +1,4 @@
-# Last logon EventID
+# Last logon EventID = 5379
 $eventID = 5379
 $hostname = hostname
 $GroupAdm = 'Administrators'
